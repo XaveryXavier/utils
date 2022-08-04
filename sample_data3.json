@@ -1,0 +1,23 @@
+[
+    {
+    "chi2ndf0": 0.0,
+    "chi2ndf1": 0.0,
+    "chi2ndf2": 0.0,
+    "chi2ndf7": 0.0,
+    "date": "2022-07-14T19:10:57+02:00",
+    "hypmed_needle": 1,
+    "measurement": 4,
+    "roi0": 0,
+    "roi1": 0,
+    "roi2": 0,
+    "roi7": 0,
+    "slope0": 0.0,
+    "slope1": 0.0,
+    "slope2": 0.0,
+    "slope7": 0.0,
+    "slope_err0": 0.0,
+    "slope_err1": 0.0,
+    "slope_err2": 0.0,
+    "slope_err7": 0.0
+}
+]
