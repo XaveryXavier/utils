@@ -36,9 +36,6 @@ vector<map<string, string>> tableVec_prep_fun(string fileName) {
     return tableVec;
 }
 
-int four(){
-        return 4;
-    }
 
 
 int main() {
@@ -56,7 +53,6 @@ int main() {
     // calib.FetchData();
     // const std::vector<std::map<std::string, std::string> > data = calib.Data();
     // calib.Print();
-    int a = 4 + four();
-    
+   
     return 0;
 }
