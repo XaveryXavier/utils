@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/michal/praktyki/utils'
+g++ -I/. -I/usr/include `root-config --cflags` -c test.cxx
+g++ -I/. -I/usr/include `root-config --cflags` -c OfflineCalib.cxx
+g++ `root-config --glibs` -o run test.o OfflineCalib.o -L/usr/lib64 -lcurl
+make: Leaving directory '/home/michal/praktyki/utils'
+ 
